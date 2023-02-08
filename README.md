@@ -1,5 +1,7 @@
 # HTR data for the SETAF project
 
+Coucou Aurélia
+
 ## Data
 
 ALTO files with segmentation and transcription

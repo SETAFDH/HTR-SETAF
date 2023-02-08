@@ -2,19 +2,19 @@ schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: SETAF
 url: https://github.com/SETAFDH/HTR-SETAF
 authors:
-  - name: Aurélia
-    surname: Oliveira
-    roles:
-      - transcriber
-      - aligner
+- name: "Aur\xE9lia"
+  surname: Oliveira
+  roles:
+  - transcriber
+  - aligner
 institutions: []
 description: Projet SETAF
 project-name: 'SETAF '
 language:
-  - fra
+- fra
 production-software: eScriptorium + Kraken
 script:
-  - iso: Latn
+- iso: Latn
 script-type: only-typed
 time:
   notBefore: '1500'
@@ -23,9 +23,84 @@ hands:
   count: '1'
   precision: exact
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 volume:
-  - metric: lines
-    count: 10
+- metric: characters
+  count: 29897
+- metric: files
+  count: 56
+- metric: lines
+  count: 1198
+- metric: regions
+  count: 49
+characters:
+  mode: NFD
+  members:
+  - e
+  - u
+  - s
+  - n
+  - o
+  - a
+  - t
+  - r
+  - i
+  - l
+  - c
+  - d
+  - ','
+  - p
+  - m
+  - y
+  - h
+  - "\u0303"
+  - f
+  - g
+  - .
+  - z
+  - b
+  - "\xB6"
+  - q
+  - ;
+  - E
+  - C
+  - "\u204A"
+  - x
+  - A
+  - D
+  - P
+  - N
+  - I
+  - L
+  - S
+  - T
+  - Q
+  - M
+  - O
+  - U
+  - F
+  - R
+  - "\u036C"
+  - G
+  - B
+  - "\uA770"
+  - H
+  - "\u0365"
+  - (
+  - "\uA753"
+  - '-'
+  - '?'
+  - '1'
+  - "\uA751"
+  - )
+  - '9'
+  - '6'
+  - '2'
+  - '3'
+  - '4'
+  - J
+  - '8'
+  - Y
+  - V
